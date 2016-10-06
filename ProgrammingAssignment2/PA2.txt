@@ -42,6 +42,7 @@ public class Subset {
    public static void main(String[] args)
 }
 Deliverables. Submit only Deque.java, RandomizedQueue.java, and Subset.java. We will supply algs4.jar. Your submission not call library functions except those in StdIn, StdOut, StdRandom, java.lang, java.util.Iterator, and java.util.NoSuchElementException. In particular, you may not use either java.util.LinkedList or java.util.ArrayList.
+
 This assignment was developed by Bob Sedgewick and Kevin Wayne. 
 Copyright © 2008.
 
