@@ -1,2 +1,2 @@
-# algorithms
-Repository with some of my code with algorithms
+# Algorithms
+Repository contains some of my code with algorithms
